@@ -18,7 +18,7 @@ npx prisma init
 app.ts
 db.ts
 connect to DB
-npx prisma pull
+npx prisma db pull
 
 ### Add to file
 
